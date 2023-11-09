@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">News Nest</string>
-    <string name="title_activity_login">LoginActivity</string>
-    <string name="title_activity_main_page">MainActivity</string>
-    <string name="title_activity_registration">RegistrationActivity</string>
-    <string name="title_activity_display_news">DisplayNews</string>
-    <string name="title_activity_main">MainActivity</string>
-</resources>
